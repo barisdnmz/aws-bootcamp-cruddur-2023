@@ -1,3 +1,5 @@
 # Week 0 — Billing and Architecture
 
-MFA has been set for my root account.
+1- MFA has been set for my root account.
+2- Another user created and admin priviliges/policies assigned to it
+
