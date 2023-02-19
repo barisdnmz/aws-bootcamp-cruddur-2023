@@ -18,11 +18,11 @@
     
  4- Lucid Chart  
  \
-   [Link to the Lucid chart]([url](https://lucid.app/lucidchart/ff2f1b00-5ec6-4bf2-ac00-f304b828c950/edit?viewport_loc=-262%2C25%2C2560%2C1168%2C0_0&invitationId=inv_6716dcc9-221a-4c50-955a-9b5a860495be))  
+   [Link to the Lucid chart](https://lucid.app/lucidchart/ff2f1b00-5ec6-4bf2-ac00-f304b828c950/edit?viewport_loc=-262%2C25%2C2560%2C1168%2C0_0&invitationId=inv_6716dcc9-221a-4c50-955a-9b5a860495be)  
    
  ![image](https://user-images.githubusercontent.com/40344567/219979497-8e1cdc92-6631-4947-b3a2-9d43e5db3a8d.png)
   
-
+[](url)
  
   
 
