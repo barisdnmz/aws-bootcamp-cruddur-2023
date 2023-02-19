@@ -20,9 +20,23 @@
  \
    [Link to the Lucid chart](https://lucid.app/lucidchart/ff2f1b00-5ec6-4bf2-ac00-f304b828c950/edit?viewport_loc=-262%2C25%2C2560%2C1168%2C0_0&invitationId=inv_6716dcc9-221a-4c50-955a-9b5a860495be)  
    
- ![image](https://user-images.githubusercontent.com/40344567/219979497-8e1cdc92-6631-4947-b3a2-9d43e5db3a8d.png)
+ ![image](https://user-images.githubusercontent.com/40344567/219979497-8e1cdc92-6631-4947-b3a2-9d43e5db3a8d.png)  
+\
+\
+\
+5- Napkin Chart  
+\
+![image](https://user-images.githubusercontent.com/40344567/219981085-a50ed8f6-5ce2-4169-ad09-d3f59f798370.png)
+
   
-[](url)
+6- AWS CLI installation and user credentials are set  
+  
+  [how to install aws cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+  
+  ![image](https://user-images.githubusercontent.com/40344567/219980754-615fdc50-e7df-4a82-827a-51b683357fb5.png)
+
+     
+
  
   
 
