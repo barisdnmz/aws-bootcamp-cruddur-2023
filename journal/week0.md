@@ -10,7 +10,9 @@
 ![image](https://user-images.githubusercontent.com/40344567/219971098-714a9fce-e788-43df-9779-7e421b57a9d4.png)  
 
 
-**3-** Billing alarm and Budget set in case of the treshold reached, we will be informed via email.
+**3-** Billing alarm and Budget set in case of the treshold reached, we will be informed via email.  
+  
+  [Creating billing alarm CloudWatch](https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-estimatedcharges-alarm/)
 
 ![image](https://user-images.githubusercontent.com/40344567/219971548-b05afe7b-cbaf-4dee-b38f-36287e3ba86e.png)  
   
