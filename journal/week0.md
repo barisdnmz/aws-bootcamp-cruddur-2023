@@ -7,8 +7,11 @@
 
 **2-** Another user created and admin priviliges/policies attached to it to avoid of using root account unnecessarily for security concern.    
 
+
 ![image](https://user-images.githubusercontent.com/40344567/219971098-714a9fce-e788-43df-9779-7e421b57a9d4.png)  
 
+  
+  
 
 **3-** Billing alarm and Budget set in case of the treshold reached, we will be informed via email.  
   
@@ -18,24 +21,29 @@
   
   ![image](https://user-images.githubusercontent.com/40344567/219971577-5f663356-fc70-41c4-a189-3d7a2bf9ce67.png)  
     
- 4- Lucid Chart  
+
+**4-** Napkin Chart  
+\
+![image](https://user-images.githubusercontent.com/40344567/219983432-9c71a886-19d5-43da-a527-d326e193d40e.png)  
+
+
+**5-** Lucid Chart  
  \
    [Link to the Lucid chart](https://lucid.app/lucidchart/ff2f1b00-5ec6-4bf2-ac00-f304b828c950/edit?viewport_loc=-262%2C25%2C2560%2C1168%2C0_0&invitationId=inv_6716dcc9-221a-4c50-955a-9b5a860495be)  
    
  ![image](https://user-images.githubusercontent.com/40344567/219979497-8e1cdc92-6631-4947-b3a2-9d43e5db3a8d.png)  
-\
-\
-\
-5- Napkin Chart  
-\
-![image](https://user-images.githubusercontent.com/40344567/219981085-a50ed8f6-5ce2-4169-ad09-d3f59f798370.png)
+  
+  
 
   
-6- AWS CLI installation and user credentials are set  
+**6-** AWS CLI installation and user credentials are set  
   
   [how to install aws cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
   
-  ![image](https://user-images.githubusercontent.com/40344567/219980754-615fdc50-e7df-4a82-827a-51b683357fb5.png)
+  ![image](https://user-images.githubusercontent.com/40344567/219980754-615fdc50-e7df-4a82-827a-51b683357fb5.png)  
+    
+  ![image](https://user-images.githubusercontent.com/40344567/219982806-ddd5a79c-7f22-49f7-8d1a-1d4de32dbbed.png)
+
 
      
 
